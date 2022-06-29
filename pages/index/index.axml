@@ -1,0 +1,6 @@
+<view class="content">
+  <image class="logo" mode="scaleToFill" src="https://img.alicdn.com/imgextra/i4/O1CN01ZtIFkT1I213Yvvq8d_!!6000000000834-0-tps-180-180.jpg" />
+  <view class="desc">
+    hello {{name}}!
+  </view>
+</view>
